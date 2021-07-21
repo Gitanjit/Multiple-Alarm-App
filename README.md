@@ -30,10 +30,15 @@ An android app storing multiple recurrant alarms with snooze feature structured 
 - Navigation Jetpack Architecture Component
 
 ## Images of the App
-![](/image_stuff/multi_alarm_1.jpg)
-Scheduling An Alarm
-![](/image_stuff/multi_alarm_2.jpg)
-List of Scheduled Alarms
-![](/image_stuff/multi_alarm_3.jpg)
-The ringing alarm going off!
+![](/readme_res/multi_alarm_1.jpg)
+
+- Scheduling An Alarm
+
+![](/readme_res/multi_alarm_2.jpg)
+
+- List of Scheduled Alarms
+
+![](/readme_res/multi_alarm_3.jpg)
+
+- The ringing alarm going off!
 
